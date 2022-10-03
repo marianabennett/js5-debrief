@@ -2,7 +2,7 @@
 
 ## js-5-debrief
 
-![](resources/img/wheel.png)
+![](resources/img/wheel.png) commit
 
 ## In this exercise you will create your own Random Name Generator!
 
