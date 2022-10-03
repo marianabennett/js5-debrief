@@ -1,4 +1,4 @@
-// Your application should meet the requirements listed below:
+// Your application should meet the requirements listed below: commit
 // 1. Selects from a pool of at least ten names of your classmates.
 // 2. A 'Generate Random Names' button that initiates the selection of 4 random names.
 // 3. The selected random names are displayed to the browser.
